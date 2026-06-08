@@ -1,0 +1,14 @@
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\bin\Debug\Zad3_playlist.exe.config
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\bin\Debug\Zad3_playlist.exe
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\bin\Debug\Zad3_playlist.pdb
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\MainWindow.baml
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\MainWindow.g.cs
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\App.g.cs
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist_MarkupCompile.cache
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist.g.resources
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist.Properties.Resources.resources
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist.exe
+C:\Users\305-10\Desktop\Pr_21\Zad3_playlist\obj\Debug\Zad3_playlist.pdb
